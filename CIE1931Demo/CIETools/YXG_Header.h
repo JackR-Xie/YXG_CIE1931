@@ -3,7 +3,7 @@
 //  SPIC-120
 //
 //  Created by  on 2018/10/24.
-//  Copyright © 2018 everfine. All rights reserved.
+//  Copyright © 2018 jack. All rights reserved.
 //
 
 #ifndef YXG_Header_h

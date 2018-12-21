@@ -3,7 +3,7 @@
 //  CIE1931Demo
 //
 //  Created by  on 2018/12/14.
-//  Copyright © 2018 everfine. All rights reserved.
+//  Copyright © 2018 jack. All rights reserved.
 //
 
 #import "CIE31.h"
